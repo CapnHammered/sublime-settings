@@ -1,0 +1,27 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
+	"draw_white_space": "selection",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Github Tools",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"preview_on_click": false,
+	"remember_open_files": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Material Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+}
